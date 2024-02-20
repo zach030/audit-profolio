@@ -12,7 +12,7 @@
 |:--:|:--:|:--:|:--:|
 | [Kelp](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top)|  1 |  |  101/185 |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top)|   | 1 |  53/242 |
-| [reNFT](https://code4rena.com/audits/2024-01-renft#top)|   | 1 |  80/115 |
+| [reNFT](https://code4rena.com/audits/2024-01-renft#top)| 1  |  |  80/115 |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
