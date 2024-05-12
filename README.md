@@ -2,7 +2,7 @@
 
 | Overall issues found | High risk | Medium risk | Low risk | Audited contests |
 |:--:|:--:|:--:|:--:| :--:|
-| 7 issues found | 3 highs | 2 medium | 2 low | 4 contests |
+| 9 issues found | 5 highs | 2 medium | 2 low | 6 contests |
 
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
@@ -13,13 +13,14 @@
 | [Kelp](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top)|  1 |  |  101/185 |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top)|   | 1 |  53/242 |
 | [reNFT](https://code4rena.com/audits/2024-01-renft#top)| 1  |  |  80/115 |
+| [Salty.io](https://code4rena.com/audits/2024-01-saltyio#top)| 1  |  |  144/115 |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
 ### Audit Competitions
 | Contest | High risk | Medium risk | Low risk | Leaderboard |
 |:--:|:--:|:--:|:--:|:--:|
-| [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | 1| 0 | 2| 18/202	 |
+| [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | 1|  | 2| 18/202	 |
 
 
 
